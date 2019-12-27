@@ -2,8 +2,8 @@
 
 This project is a fork of the
 [Spring Petclinic](https://github.com/spring-projects/spring-petclinic)
-application. It is used as the sample application for the workshop "Continuous
-Delivery in Practice: a Hands-On DevOps Workshop".
+application. It is used as the base application for this Practical Continuous
+Delivery work.
 
 ## Summary
 
